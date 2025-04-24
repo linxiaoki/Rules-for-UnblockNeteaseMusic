@@ -10,7 +10,7 @@ log-level: info
 external-controller: 127.0.0.1:9090
 dns:
   enable: true
-  listen: 0.0.0.0:5353
+  listen: 0.0.0.0:9991
   enhanced-mode: fake-ip
   default-nameserver:
     - 119.29.29.29
